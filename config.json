@@ -1,0 +1,15 @@
+{
+  "frame_size"    : 512,
+  "shift_size"    : 256,
+  "window_type"   : "hanning",
+  "sampling_rate" : 8000,
+
+  "batch_size"    : 64,
+  "epochs"        : 10000,
+  "learning_rate" : 0.0001,
+  "default_float" : "float32",
+
+  "normal_checkpoint_name" : "AE_520",
+  "mbl_checkpoint_name"    : "MBL_AE_2420",
+  "mpl_checkpoint_name"    : "MPL_AE_600"
+}

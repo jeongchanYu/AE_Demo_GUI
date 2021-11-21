@@ -1,0 +1,5 @@
+$ pip install pyinstaller
+
+change pathex in gui_main.spec
+
+$ pyinstaller gui_main.spec
